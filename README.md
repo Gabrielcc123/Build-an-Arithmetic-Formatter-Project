@@ -11,10 +11,7 @@ Este proyecto forma parte de la certificación de Computación Científica con P
 - Formatea los problemas con alineación y espaciado adecuados.
 - Opcionalmente muestra los resultados de cada operación.
 
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
------    ------    ----    -----
-  730     3799      88      172
+
 
 
 
