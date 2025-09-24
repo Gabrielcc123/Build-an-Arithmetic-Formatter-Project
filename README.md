@@ -14,7 +14,8 @@ Este proyecto forma parte de la certificación de Computación Científica con P
 **Ejemplo
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True)
 
-
+
+
 Salida:
    32      3801      45      123
 + 698    -    2    + 43    +  49
